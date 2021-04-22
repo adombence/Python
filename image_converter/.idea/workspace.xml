@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5eb0ba7-a585-4d2f-97e1-fe6f5adc7156" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/Group 11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/debug.log" beforeDir="false" />
+    <list default="true" id="a5eb0ba7-a585-4d2f-97e1-fe6f5adc7156" name="Default Changelist" comment="image converter">
+      <change afterPath="$PROJECT_DIR$/../convert_to_ico/input/Layer_x0020_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../convert_to_ico/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Gergő\PycharmProjects\pythonProject\ico_converter\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
@@ -96,7 +97,22 @@
       <workItem from="1611842317007" duration="6000" />
       <workItem from="1611842333640" duration="2000" />
       <workItem from="1613396482778" duration="1006000" />
+      <workItem from="1617105666421" duration="59000" />
+      <workItem from="1617952091184" duration="12000" />
+      <workItem from="1617969482747" duration="54000" />
+      <workItem from="1618298723566" duration="76000" />
+      <workItem from="1619104399404" duration="846000" />
+      <workItem from="1619105346865" duration="217000" />
+      <workItem from="1619105641364" duration="527000" />
     </task>
+    <task id="LOCAL-00001" summary="image converter">
+      <created>1618298775390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618298775390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +129,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="image converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="image converter" />
   </component>
 </project>
